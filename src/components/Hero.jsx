@@ -1,6 +1,6 @@
 import React from 'react'
 
-import profileImg from "../assets/rony.jpg"
+import profileImg from "../assets/ronyy.jpg"
 import {motion} from 'framer-motion'
 import { fadeInUp, nameTagAnimation, transitions } from '../utils/animations'
 
