@@ -28,7 +28,7 @@ A minimal React portfolio scaffolded with Vite. Lightweight, fast dev server and
 Start the dev server (Vite with HMR):
 npm run dev
 
-Open the URL shown in the terminal (usually http://localhost:5173).
+Open the URL shown in the terminal.
 
 ## Build & Preview
 
